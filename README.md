@@ -19,29 +19,29 @@ A full‑stack project with:
 
 ## 📦 Installation
 
-### Backend
+## Backend
 ```bash
 git clone https://github.com/Faheem-mhd/scalable-api-backend.git
 cd scalable-api-backend
 npm install
 
-Environment Variables
-Create a .env file:
-PORT=5000
+## Environment Variables
+- Create a .env file:
+**PORT=5000
 DB_USER=your_db_user
 DB_PASSWORD=your_db_password
 DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=scalable_api
-JWT_SECRET=your_secret_key
+JWT_SECRET=your_secret_key**
 
 
-Run Backend
-npm start
+-Run Backend
+-npm start
 
 
-Server runs at:
-http://localhost:5000
+-Server runs at:
+-http://localhost:5000
 
 
 
